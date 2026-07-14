@@ -1,4 +1,4 @@
-# SA_fricatives
+# Fricatives in Amazonian languages
 Database for a typological investigation of fricative phonetics and phonology in South America
 
 ## Content
